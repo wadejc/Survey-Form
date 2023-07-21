@@ -1,0 +1,10 @@
+body {
+background-color: LightBlue;
+font-family: Arial;
+}
+
+form {
+background-color: DarkBlue;
+border-radius: 10px;
+color: white;
+}
